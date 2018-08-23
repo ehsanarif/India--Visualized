@@ -31,8 +31,6 @@
 ---
 
 
----
----
 ### **State-wise number of Urban and Rural Establishments (above)| UR [Unemployment Rate] and WPR [Worker to Population ratio] (below)**
 
 <html><body>
