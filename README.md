@@ -8,7 +8,7 @@
 ---
 #### Tips
 - Open in Laptop/PC for best website optimization.
-- For better visibility look out for the Full Screen button at the bottom right of every visualization frame.
+- For better visibility, look out for the Full Screen button at the bottom right of every visualization frame.
 
 ---
 ##### Note: This is an ongoing project.
