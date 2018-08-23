@@ -1,10 +1,10 @@
 
 
-# India Visualized
+# **India Visualized**
 
 
 
-## In-depth visualizations of datasets associated to various variable stats of India.
+### In-depth visualizations of datasets associated to various variable stats of India.
 ---
 #### Tips
 - Open in Laptop/PC for best website optimization.
