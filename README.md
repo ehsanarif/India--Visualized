@@ -10,7 +10,7 @@
 - For better visibility look out for the Full Screen button at the bottom right of every visualization frame.
 
 ---
-#### Note: This is an ongoing project.
+##### Note: This is an ongoing project.
 
 ---
 ---
