@@ -7,6 +7,7 @@
 ## In-depth visualizations of datasets associated to various variable stats of India.
 ---
 #### Tips
+- Open in Laptop/PC for best website optimization.
 - For better visibility look out for the Full Screen button at the bottom right of every visualization frame.
 
 ---
