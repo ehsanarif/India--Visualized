@@ -2,7 +2,7 @@
 
 # India Visualized
 
-You can use the [editor on GitHub](https://github.com/ehsanarif/test-tableau/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
 
 ## In-depth visualizations of datasets associated to various variable stats of India.
 ### Contents:
