@@ -15,7 +15,7 @@ This is an ongoing project.
 ---
 ---
 
-#### **State Wise GER (Gross Enrollment Ratio) in Higher education**
+### **State Wise GER (Gross Enrollment Ratio) in Higher education**
 <html>
     <head>
         <title>State Wise GER (Gross Enrollment Ratio)</title>
